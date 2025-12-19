@@ -1,0 +1,153 @@
+
+ssxt_pfsd_dl.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ssxt_pfsd_dl_4
+  rotate: true
+  xy: 181, 338
+  size: 85, 84
+  orig: 85, 86
+  offset: 0, 1
+  index: -1
+ssxt_pfsd_dl_bh
+  rotate: true
+  xy: 268, 433
+  size: 77, 76
+  orig: 77, 77
+  offset: 0, 1
+  index: -1
+ssxt_pfsd_dl_di
+  rotate: false
+  xy: 2, 120
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_dl_di2
+  rotate: false
+  xy: 213, 252
+  size: 84, 84
+  orig: 85, 86
+  offset: 0, 1
+  index: -1
+ssxt_pfsd_dl_di3
+  rotate: false
+  xy: 176, 159
+  size: 84, 85
+  orig: 85, 86
+  offset: 0, 1
+  index: -1
+ssxt_pfsd_dl_di4
+  rotate: false
+  xy: 126, 246
+  size: 85, 85
+  orig: 85, 86
+  offset: 0, 1
+  index: -1
+ssxt_pfsd_dl_di5
+  rotate: false
+  xy: 181, 425
+  size: 85, 85
+  orig: 85, 86
+  offset: 0, 1
+  index: -1
+ssxt_pfsd_dl_di6
+  rotate: false
+  xy: 2, 32
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_dl_di7
+  rotate: false
+  xy: 89, 120
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_dl_g
+  rotate: false
+  xy: 2, 333
+  size: 177, 177
+  orig: 177, 177
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_dl_lb
+  rotate: false
+  xy: 332, 97
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_dl_lbzj
+  rotate: true
+  xy: 255, 3
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_dl_ql
+  rotate: false
+  xy: 299, 273
+  size: 71, 71
+  orig: 71, 72
+  offset: 0, 1
+  index: -1
+ssxt_pfsd_dl_ql1
+  rotate: true
+  xy: 176, 80
+  size: 77, 76
+  orig: 77, 77
+  offset: 0, 1
+  index: -1
+ssxt_pfsd_dl_qlzgl
+  rotate: false
+  xy: 267, 346
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_dl_qlzgl1
+  rotate: false
+  xy: 89, 32
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_dl_sc
+  rotate: false
+  xy: 176, 2
+  size: 77, 76
+  orig: 77, 77
+  offset: 0, 1
+  index: -1
+ssxt_pfsd_dl_x
+  rotate: false
+  xy: 2, 208
+  size: 122, 123
+  orig: 122, 123
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_dl_xing
+  rotate: false
+  xy: 334, 32
+  size: 61, 63
+  orig: 61, 63
+  offset: 0, 0
+  index: -1
+ssxt_pfsd_dl_xwcr
+  rotate: true
+  xy: 254, 80
+  size: 77, 76
+  orig: 77, 77
+  offset: 0, 1
+  index: -1
+ssxt_pfsd_wgyl_xw1
+  rotate: false
+  xy: 262, 173
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1

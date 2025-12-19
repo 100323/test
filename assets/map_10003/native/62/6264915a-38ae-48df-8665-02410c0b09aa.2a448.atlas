@@ -1,0 +1,104 @@
+
+pvpmap_bjd1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pvpmap_tsgz_hd1
+  rotate: false
+  xy: 474, 205
+  size: 43, 43
+  orig: 45, 44
+  offset: 1, 1
+  index: -1
+pvpmap_tsgz_hd1g
+  rotate: false
+  xy: 2, 43
+  size: 81, 73
+  orig: 81, 73
+  offset: 0, 0
+  index: -1
+pvpmap_tsgz_hd2
+  rotate: true
+  xy: 519, 222
+  size: 26, 16
+  orig: 27, 17
+  offset: 1, 0
+  index: -1
+pvpmap_tsgz_hd2g
+  rotate: true
+  xy: 474, 153
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+pvpmap_tsgz_hdd3
+  rotate: false
+  xy: 512, 177
+  size: 24, 26
+  orig: 29, 31
+  offset: 2, 3
+  index: -1
+pvpmap_tsgz_shuihua
+  rotate: true
+  xy: 519, 207
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+pvpmap_tsgz_ye1
+  rotate: false
+  xy: 303, 250
+  size: 242, 223
+  orig: 242, 223
+  offset: 0, 0
+  index: -1
+pvpmap_tsgz_ye2
+  rotate: false
+  xy: 2, 219
+  size: 299, 254
+  orig: 304, 255
+  offset: 5, 0
+  index: -1
+pvpmap_tsgz_ye3
+  rotate: true
+  xy: 547, 169
+  size: 304, 141
+  orig: 304, 141
+  offset: 0, 0
+  index: -1
+pvpmap_tsgz_ye4
+  rotate: true
+  xy: 303, 2
+  size: 246, 169
+  orig: 246, 169
+  offset: 0, 0
+  index: -1
+pvpmap_tsgz_ye5
+  rotate: false
+  xy: 2, 118
+  size: 297, 99
+  orig: 297, 101
+  offset: 0, 1
+  index: -1
+pvpmap_tsgz_ye6
+  rotate: false
+  xy: 690, 119
+  size: 294, 170
+  orig: 295, 172
+  offset: 0, 0
+  index: -1
+pvpmap_tsgz_ye7
+  rotate: true
+  xy: 690, 291
+  size: 182, 179
+  orig: 182, 179
+  offset: 0, 0
+  index: -1
+pvpmap_tsgz_zz
+  rotate: false
+  xy: 986, 163
+  size: 26, 310
+  orig: 26, 324
+  offset: 0, 0
+  index: -1

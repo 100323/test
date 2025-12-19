@@ -1,0 +1,118 @@
+
+caoren7_attack_hit.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+simayi9_pg_dian
+  rotate: false
+  xy: 174, 88
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+simayi9_pg_diang
+  rotate: true
+  xy: 193, 59
+  size: 27, 31
+  orig: 28, 32
+  offset: 1, 0
+  index: -1
+simayi9_pg_guang
+  rotate: true
+  xy: 2, 54
+  size: 71, 70
+  orig: 71, 70
+  offset: 0, 0
+  index: -1
+simayi9_pg_xian
+  rotate: false
+  xy: 74, 69
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1
+simayi9_pg_xiang
+  rotate: false
+  xy: 74, 54
+  size: 27, 13
+  orig: 27, 13
+  offset: 0, 0
+  index: -1
+simayi9_pg_yan1
+  rotate: false
+  xy: 34, 4
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+simayi9_pg_yan2
+  rotate: false
+  xy: 114, 6
+  size: 35, 46
+  orig: 35, 46
+  offset: 0, 0
+  index: -1
+simayi9_pg_yan3
+  rotate: false
+  xy: 181, 21
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+simayi9_pg_yan4
+  rotate: true
+  xy: 130, 56
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+simayi9_pg_yan5
+  rotate: false
+  xy: 103, 54
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+simayi9_pg_yan6
+  rotate: true
+  xy: 181, 4
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+simayi9_pg_zha1
+  rotate: false
+  xy: 84, 5
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+simayi9_pg_zha2
+  rotate: false
+  xy: 151, 15
+  size: 28, 39
+  orig: 28, 39
+  offset: 0, 0
+  index: -1
+simayi9_pg_zha3
+  rotate: true
+  xy: 2, 2
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+simayi9_pg_zha4
+  rotate: true
+  xy: 130, 80
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+simayi9_pg_zha5
+  rotate: true
+  xy: 152, 58
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
